@@ -19,9 +19,9 @@ My toolbox includes:
 
 ### Blockchain and DeFi
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=FFFFFF)
-! Solana
-! Base
-! Ton
+- Solana
+- Base
+- Ton
 
 ### Web
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
