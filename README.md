@@ -5,8 +5,8 @@
 
 My toolbox includes:
 - 🌐 NextJS & ReactJS (TypeScript)
-- Python (Flask)
-
+- NodeJS, Express, Hono
+- Python (Flask), FastAPI
 
 ---
 
@@ -14,6 +14,7 @@ My toolbox includes:
 - 🎓 Graduate of Mechatronics Engineering (FUTMinna)
 - 👨‍💻 Full-stack web developer (Next Js + NestJS)
 - 🚀 Passionate about creating efficient, scalable solutions
+- Building AI agents by the side with Google ADK / Langchain
 
 ## Tech Stack
 
