@@ -1,12 +1,13 @@
 # Hi there 👋, My name is Stephen
 # You can call me Tech Daddy too
 
-## Web3/Blockchain Deveoper (EVM) | Fullstack Web Developer
+## Web3/Blockchain Deveoper (EVM) | Fullstack Developer
 
 My toolbox includes:
 - 🌐 NextJS & ReactJS (TypeScript)
-- NodeJS, Express, Hono
+- NestJS, Express, Hono
 - Python (Flask), FastAPI
+- Langchain, Google ADK
 
 ---
 
